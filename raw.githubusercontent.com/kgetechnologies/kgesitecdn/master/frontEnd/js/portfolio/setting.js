@@ -1,0 +1,1 @@
+No Content: https://raw.githubusercontent.com/kgetechnologies/kgesitecdn/master/frontEnd/js/portfolio/setting.js
